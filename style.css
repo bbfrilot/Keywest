@@ -1,0 +1,41 @@
+body {  
+    width: 80%;  
+    height: 80%;
+    display: flex; 
+    align-items: center;   
+}
+#map {
+    width: 800px; 
+    height: 700px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -350px;
+    margin-left: -400px;
+}
+.imageB { 
+    width: 2304px; 
+    height: 990px;
+    position: relative;
+}
+
+
+
+
+
+        
+    
+   
+    
+    
+
+
+
+
+
+
+    
+
+
+
+
