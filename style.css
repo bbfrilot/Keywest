@@ -15,8 +15,9 @@ body {
 }
 .imageB { 
     width: 2304px; 
-    height: 990px;
-    position: relative;
+    height: 2000px;
+    position: fixed;
+    
 }
 
 
